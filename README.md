@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## ShowCase
+
+![Showcase](https://imgur.com/JrdtLtS)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
