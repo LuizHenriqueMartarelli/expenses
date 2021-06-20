@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+Projeto básico de cadastro de despesas usando Flutter!
 
 ## ShowCase
 
