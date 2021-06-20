@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## ShowCase
 
-![Showcase](https://imgur.com/JrdtLtS)
+![Showcase](https://i.imgur.com/JrdtLtS.gif)
 
 ## Getting Started
 
